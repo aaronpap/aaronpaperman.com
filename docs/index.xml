@@ -2,7 +2,7 @@
   <channel>
       <title>Aaron Paperman on Aaron Paperman </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>https://aaronpaperman.com/</link>
+    <link>http://aaronpaperman.com/</link>
     <language>en-us</language>
     
     
@@ -10,10 +10,10 @@
     
     <item>
       <title>Welcome Home</title>
-      <link>https://aaronpaperman.com/post/my-first-post/</link>
+      <link>http://aaronpaperman.com/post/my-first-post/</link>
       <pubDate>Thu, 26 Mar 2020 00:00:00 UTC</pubDate>
       
-      <guid>https://aaronpaperman.com/post/my-first-post/</guid>
+      <guid>http://aaronpaperman.com/post/my-first-post/</guid>
       <description>Hello to the depressed side. Here I put down my thoughts, stupid, crazy, happy and everything basically.</description>
     </item>
     
