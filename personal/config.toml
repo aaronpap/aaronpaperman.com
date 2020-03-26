@@ -1,0 +1,12 @@
+archetypeDir           = "archetypes"
+author                 = "Aaron Paperman"
+baseUrl                = "https://aaronpaperman.com"
+relativeURLs           = true
+canonifyUrls           = true
+contentDir             = "content"
+languageCode           = "en-us"
+layoutDir              = "layouts"
+publishDir             = "docs"
+theme                  = "pixyll"
+title                  = "Aaron Paperman"
+enableEmoji            = true

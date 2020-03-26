@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Aaron Paperman on Aaron Paperman </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>https://aaronpaperman.com/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Thu, 26 Mar 2020 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Welcome Home</title>
+      <link>https://aaronpaperman.com/post/my-first-post/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://aaronpaperman.com/post/my-first-post/</guid>
+      <description>Hello to the depressed side. Here I put down my thoughts, stupid, crazy, happy and everything basically.</description>
+    </item>
+    
+  </channel>
+</rss>
+
