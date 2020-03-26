@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Aaron Paperman</title>
-    <link>http://aaronpaperman.com/categories/</link>
+    <link>https://aaronpaperman.com/categories/</link>
     <description>Recent content in Categories on Aaron Paperman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://aaronpaperman.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aaronpaperman.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

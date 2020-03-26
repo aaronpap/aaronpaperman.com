@@ -1,6 +1,6 @@
 archetypeDir           = "archetypes"
 author                 = "Aaron Paperman"
-baseUrl                = "http://aaronpaperman.com"
+baseUrl                = "https://aaronpaperman.com"
 relativeURLs           = true
 canonifyUrls           = true
 contentDir             = "content"
