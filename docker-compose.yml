@@ -1,16 +1,21 @@
-build:
-  image: klakegg/hugo:0.68.3-ubuntu
-  volumes:
-    - "./personal:/src"
-    - "./docs:/target"
+version: "2"
 
-server:
-  image: klakegg/hugo:0.68.3-ubuntu
-  command: server --disableFastRender
-  volumes:
-    - "./personal:/src"
-  ports:
-    - "1313:1313"
+services:
+  build:
+    build: .
+    volumes:
+      - "./personal:/src"
+      - "./docs:/target"
+      - "./cmd.sh:/cmd.sh"
 
+  server:
+    image: klakegg/hugo:0.68.3-ubuntu
+    command: server --disableFastRender
+    volumes:
+      - "./personal:/src"
+    ports:
+      - "1313:1313"
+
+# docker-compose build
 # docker-compose run build
 # docker-compose run -p 1313:1313 server
